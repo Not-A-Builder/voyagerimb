@@ -5,6 +5,8 @@ In 1977 NASA sent into space the famous Voyager I and II spaceprobes. A message 
 
 https://soundcloud.com/user-482195982/voyager-golden-record-encoded-images
 
+### The Golden Disk
+
 ![Figure 1: The Golden disk (source: NASA).](doc/imgs/golden_disk.jpg)
 
 
