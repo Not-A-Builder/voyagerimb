@@ -3,6 +3,8 @@
 
 In 1977 NASA sent into space the famous Voyager I and II spaceprobes. A message to any future alien species that could find the probes was attached to the probes, as a golden phonographic disk containing samples of sounds of planet Earth, including greetings, music and a collection of images depicting many aspects of the Earth existence. 
 
+## The Sound
+
 https://soundcloud.com/user-482195982/voyager-golden-record-encoded-images
 
 ### The Golden Disk
